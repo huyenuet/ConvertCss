@@ -1,0 +1,15 @@
+p {
+    color: #fff;
+}
+p > h1 {
+    background-color: red;
+    color: #fff;
+}
+/*p:hover {*/
+    /*background-color: red;*/
+/*}*/
+
+/*p > .hello {*/
+    /*text-align: center;*/
+    /*border: #6eff6f solid 1px;*/
+/*}*/

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cssparser:cssparser:0.9.4" type="repository">
+    <properties maven-id="cssparser:cssparser:0.9.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/cssparser-0.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
